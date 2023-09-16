@@ -1,9 +1,0 @@
-baseURL = 'https://rigojr.github.io/blog/'
-title = 'Serre - Rigojr Blog'
-theme = 'PaperMod'
-languageCode = 'en-us'
-
-[params]
-title = 'Serre - Rigojr Blog'
-author = 'Jose Salas - @rigojr'
-description = 'Just for fun.'

@@ -1,0 +1,7 @@
+baseURL: "https://rigojr.github.io/blog/"
+title: "Serre - Rigojr Blog"
+theme: "PaperMod"
+languageCode: "en-us"
+
+params:
+  author: "Jose Salas - @rigojr"
