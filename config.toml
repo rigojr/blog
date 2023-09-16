@@ -1,4 +1,5 @@
 baseURL = 'https://rigojr.github.io/blog/'
-title = ExampleSite
+title = 'ExampleSite'
 paginate = 5
-theme = PaperMod
+theme = 'PaperMod'
+languageCode = 'en-us'
