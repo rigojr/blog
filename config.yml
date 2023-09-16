@@ -5,3 +5,6 @@ languageCode: "en-us"
 
 params:
   author: "Jose Salas - @rigojr"
+  homeInfoParams:
+    Title: Rigojr Blog
+    Content: Just for fun
